@@ -1,0 +1,1 @@
+#The note book contains the code for preprocessing step where a data scientist work on a data analysis. This way the data scientist will be familiar with the data and have a clear idea how to use it and what he/she can gain from the data
